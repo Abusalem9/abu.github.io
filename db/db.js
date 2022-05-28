@@ -90,7 +90,7 @@ export default {
 				image: "https://ii1.pepperfry.com/images/svg/pf-logo-21.svg",
 				summary:
 					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-				preview: "https://clever-fermi-0d5d76.netlify.app",
+				preview: "https://cloneofpeperfry.netlify.app/",
 				techStack: ["JavaScript",
 				"HTML",
 				"CSS",
